@@ -1,0 +1,261 @@
+{
+  "COMMON": {
+    "READ_MORE": "Mehr erfahren"
+  },
+
+  "NAV": {
+    "HOME": "Startseite",
+    "ABOUT": "Über uns",
+    "SERVICES": "Leistungen",
+    "LOCATIONS": "Standorte",
+    "CAREERS": "Karriere",
+    "CONTACT": "Kontakt",
+    "CART": "Warenkorb",
+    "LOGIN": "Anmelden",
+    "LOGOUT": "Abmelden",
+    "HELLO": "Hallo,",
+    "GUEST": "Gast"
+  },
+
+  "FACILITIES": {
+    "OUR_SERVICES_TITLE": "Unsere Leistungen",
+    "OUR_SERVICES_SUBTITLE_LINE1": "Von entspannenden Massagen bis hin zu strahlender Hautpflege,",
+    "OUR_SERVICES_SUBTITLE_LINE2": "wir verwöhnen Sie mit fachkundigen Behandlungen und einer warmen, einladenden Atmosphäre.",
+    "IMAGES": {
+      "SPA_ALT": "Spa-Bild",
+      "MASSAGE_ALT": "Massage-Bild",
+      "RELAX_ALT": "Relax-Bild"
+    },
+    "CARDS": {
+      "TREATMENT": {
+        "TITLE": "Behandlungen",
+        "TEXT": "Gönnen Sie sich Massagen, Körperpeelings und Gesichtsbehandlungen — ausgeführt von unserem Team erfahrener Therapeuten für neue Energie und tiefe Entspannung."
+      },
+      "BEAUTY_SALON": {
+        "TITLE": "Beauty-Salon",
+        "TEXT": "Entdecken Sie unsere große Auswahl an Beauty-Paketen, die sorgfältig aufeinander abgestimmt sind, um maximalen Nutzen zu bieten."
+      },
+      "FACILITIES": {
+        "TITLE": "Ausstattung",
+        "TEXT": "VITA MOOR Spa & Esthetics ist ein ganzheitliches Wellness-Center und bietet eine breite Auswahl an Services unter einem Dach für ein gesünderes Leben."
+      }
+    }
+  },
+
+  "LOCATIONS": {
+    "HEADER": "Unsere Spa-Standorte"
+  },
+  "SERVICES": {
+    "HEADER": "Unsere Dienstleistungen",
+    "TAGLINE_LINE1": "Von entspannenden Massagen bis zu strahlender Hautpflege,",
+    "TAGLINE_LINE2": "wir verwöhnen dich mit fachkundigen Behandlungen und herzlicher Gastfreundschaft.",
+    "FILTER_BY_LOCATION": "Nach Standort filtern",
+    "SELECT_LOCATION": "Standort auswählen",
+    "ALL_LOCATIONS": "Alle Standorte",
+    "CAT": {
+      "ALL": "Alle",
+      "MASSAGE": "Massage",
+      "FACIAL_TREATMENTS": "Gesichtsbehandlungen",
+      "WELLNESS_HYDROTHERAPY": "Wellness & Hydrotherapie",
+      "HAMMAM_BATH": "Hammam & Bad"
+    }
+  },
+  "ABOUT": {
+    "ALT": {
+      "LEAF_LEFT": "Blattdekoration (links)",
+      "LEAF_RIGHT": "Blattdekoration (rechts)",
+      "DECOR_LEFT": "Dekorative Blätter (links)",
+      "DECOR_RIGHT": "Dekorative Blätter (rechts)",
+      "SPA_ROOM": "Spa-Raum",
+      "SPA_TEAM": "Spa-Team",
+      "GOLD_FLOWER": "Goldene Blumendekoration",
+      "FLOWERS": "Blumendekoration",
+      "MOOR_PRODUCTS": "Moor Spa Produkte"
+    },
+    "SHORT": {
+      "TITLE": "Willkommen bei VITA MOOR SPA & ESTHETICS",
+      "SUB_LEAD_1": "Ihr Rückzugsort für ein belebendes und ganzheitliches Spa-Erlebnis.",
+      "SUB_LEAD_2": "Besuchen Sie uns im Dream Lagoon Resort, Marsa Alam",
+      "MOBILE": "Mobilnummer: +201125250404"
+    },
+    "FULL": {
+      "WHO_WE_ARE_TITLE": "Wer wir sind",
+      "CARD1": "<strong>Moor Spa</strong> wurde <strong>2006</strong> in Scharm asch-Schaiḫ (Ägypten) im Rahmen einer renommierten <strong>ägyptisch-italienischen Partnerschaft</strong> gegründet. Seitdem heißen wir Gäste aus aller Welt zu <strong>natürlichen Wellness-Erlebnissen</strong> in modernen, hochmodernen Einrichtungen willkommen.",
+      "CARD2": "Unsere Karte umfasst über <strong>70+ Behandlungen</strong>, sorgfältig entwickelt, um <strong>langfristiges Wohlbefinden und Balance</strong> zu fördern.",
+      "CARD3": "Wir sind stolz auf unser Expertenteam, dessen Engagement bei jedem Besuch <strong>spürbare Ergebnisse</strong> und ein unvergessliches Erlebnis sicherstellt.",
+      "BADGE": "Ihre Wellness-Reise beginnt hier"
+    },
+    "PRODUCTS": {
+      "HEADING": "Unsere <span class=\"text-warning\">100 % natürlichen</span> Produkte",
+      "P1": "Bei <strong>VITA MOOR Spa & Esthetics</strong> verwenden wir ausschließlich die preisgekrönte Linie <strong>Moor Spa®</strong> — Hautpflege aus <strong>100 % natürlich gewonnenen Inhaltsstoffen</strong>.",
+      "P2": "Durch die Verbindung der reinigenden Essenz des Moor mit Pflanzenextrakten und ätherischen Ölen bietet Moor Spa® sichere, wirksame Lösungen für jeden Haut- und Körpertyp.",
+      "P3": "Im Gegensatz zu vielen Marken mit 95 % oder 99 % natürlich garantiert Moor Spa® <strong>keine Synthese-, Paraben- oder aggressive Chemikalien</strong> — und zählt damit zu den <strong class=\"text-warning\">sichersten Produktlinien der Spa-Branche</strong>."
+    },
+    "FACTS": {
+      "VEGAN": "Vegan & ohne Tierversuche",
+      "NO_SYNTHETICS": "Ohne synthetische Duftstoffe oder Farbstoffe",
+      "ECO_PACKAGING": "Umweltfreundliche Verpackung",
+      "DERM_TESTED": "Dermatologisch getestet & zertifiziert"
+    },
+    "PARTNERS": {
+      "HEADING": "Unsere Partner",
+      "LOGO_ALT": "Logo von {{name}}"
+    }
+  },
+
+  "CAREERS": {
+    "HEADER": {
+      "TITLE": "Werden Sie Teil der <span class=\"text-primary\">VITA MOOR</span> Spa-Familie",
+      "SUBTITLE": "Wir suchen engagierte Profis, die an Wellness, Schönheit und persönliche Pflege glauben. Bewerben Sie sich noch heute – wachsen wir gemeinsam."
+    },
+    "FORM": {
+      "NAME": "Vollständiger Name",
+      "EMAIL": "E-Mail-Adresse",
+      "PHONE": "Telefonnummer",
+      "MESSAGE": "Erzählen Sie uns kurz von Ihrer Erfahrung oder Ihrem Interesse...",
+      "FILL_ALL": "Bitte füllen Sie alle Felder korrekt aus."
+    },
+    "BUTTON": {
+      "APPLY": "Jetzt bewerben",
+      "SENDING": "Senden..."
+    },
+    "FORM_ERRORS": {
+      "NAME_REQ": "Name ist erforderlich.",
+      "EMAIL_REQ": "Eine gültige E-Mail ist erforderlich.",
+      "PHONE_REQ": "Eine gültige Telefonnummer ist erforderlich.",
+      "MESSAGE_REQ": "Nachricht ist erforderlich."
+    },
+    "TOAST": {
+      "SUCCESS": "✅ Bewerbung erfolgreich eingereicht!",
+      "ERROR": "❌ Bewerbung konnte nicht gesendet werden. Bitte versuchen Sie es erneut."
+    }
+  },
+
+  "FOOTER": {
+    "CTA": {
+      "TITLE": "Planen Sie Ihren Besuch",
+      "DESC": "Gönnen Sie sich einen entspannten Tag in unserem Spa in Marsa Alam.",
+      "BTN_BOOK": "Jetzt buchen",
+      "BTN_DIRECTIONS": "Route",
+      "HOURS": "Täglich geöffnet: 10:00–22:00"
+    },
+    "CONTACT": {
+      "ADDRESS_LABEL": "Adresse:",
+      "MOBILE_LABEL": "Mobil:",
+      "EMAIL_LABEL": "E-Mail:"
+    },
+    "COPY": "Alle Rechte vorbehalten © {{year}} VITA MOOR SPA & ESTHETICS.",
+    "ALT": {
+      "LOGO": "Vita Moor Spa Logo",
+      "LEAF_LEFT": "Blattdekoration (links)",
+      "LEAF_RIGHT": "Blattdekoration (rechts)"
+    }
+  },
+
+  "CONTACT": {
+    "HEADER": {
+      "TITLE": "Kontakt",
+      "SUB": "Wir freuen uns auf Ihre Nachricht — für Buchungen, Fragen oder Feedback."
+    },
+    "INFO": {
+      "LOCATION_LABEL": "Standort:",
+      "ADDRESS": "Dream Lagoon Resort, Marsa Alam, Ägypten",
+      "PHONE_LABEL": "Telefon:",
+      "PHONE_VALUE": "+20 112 525 0404",
+      "HOURS_LABEL": "Öffnungszeiten:",
+      "HOURS_VALUE": "Täglich – 10:00 bis 22:00 Uhr"
+    },
+    "FORM": {
+      "NAME_LABEL": "Vollständiger Name",
+      "NAME_PLACEHOLDER": "Ihr Name",
+      "EMAIL_LABEL": "E-Mail",
+      "EMAIL_PLACEHOLDER": "you@example.com",
+      "MESSAGE_LABEL": "Nachricht",
+      "MESSAGE_PLACEHOLDER": "Schreiben Sie Ihre Nachricht...",
+      "FILL_ALL": "Bitte füllen Sie alle Felder korrekt aus."
+    },
+    "BUTTON": {
+      "SEND": "Jetzt senden",
+      "SENDING": "Senden..."
+    },
+    "TOAST": {
+      "SUCCESS": "✅ Nachricht erfolgreich gesendet!",
+      "ERROR": "❌ Senden der Nachricht fehlgeschlagen."
+    }
+  },
+  "account": {
+    "welcome": "Willkommen"
+  },
+  "ADMIN": {
+    "NAV": {
+      "PANEL": "Adminbereich",
+      "MENU": "Menü",
+      "LOCATIONS": "Standorte",
+      "SERVICES": "Dienstleistungen",
+      "RESERVATIONS": "Reservierungen",
+      "EMPLOYEES": "Mitarbeiter",
+      "CAREERS": "Karriere",
+      "CONTACTS": "Kontakte",
+      "LOGOUT": "Abmelden"
+    }
+  },
+  "CART": {
+    "HEADER": "Ihr Warenkorb",
+    "ITEMS": {
+      "DURATION": "Dauer",
+      "MIN": "Min",
+      "LOCATION": "Standort",
+      "DATE": "Datum",
+      "TIME": "Uhrzeit"
+    },
+    "SUMMARY": {
+      "SUBTOTAL": "Zwischensumme"
+    },
+    "ONLINE": {
+      "DISCOUNT": "Rabatt bei Online-Zahlung ({{rate}} %):",
+      "TITLE": "Gesamt (Online zahlen):",
+      "BUTTON": "Online zahlen & {{rate}} % sparen",
+      "SECURE_NOTE": "Sichere Online-Zahlung. Sie werden zur Zahlung weitergeleitet."
+    },
+    "COUNTER": {
+      "TITLE": "Gesamt (Zahlung vor Ort):",
+      "BUTTON": "Vor Ort zahlen (kein Rabatt)",
+      "NOTE": "Gesamter Betrag bei Ankunft zu zahlen. Kein Online-Rabatt."
+    },
+    "ACTIONS": {
+      "CLEAR": "Warenkorb leeren",
+      "CONTINUE": "Weiter stöbern"
+    },
+    "EMPTY": {
+      "TITLE": "Ihr Warenkorb ist leer.",
+      "BUTTON": "SERVICES ANSEHEN"
+    }
+  },
+  "CHECKOUT": {
+    "ONLINE": {
+      "TITLE": "Online zahlen ({{rate}} % sparen)",
+      "SECURE": "Sichere Zahlungen über PayPal",
+      "SECURE_FOOTER": "100 % sichere Transaktion — Ihre Daten sind verschlüsselt"
+    },
+    "COUNTER": {
+      "TITLE": "Vor Ort zahlen (kein Rabatt)",
+      "SUB": "Jetzt reservieren und den vollen Betrag bei Ankunft bezahlen.",
+      "BUTTON_LABEL": "Reservierung bestätigen (Zahlung vor Ort)",
+      "BUTTON_SAVING": "Wird gespeichert …",
+      "NOTE": "Ihr Platz wird reserviert; Zahlung bei Ankunft an der Kasse."
+    },
+    "SUMMARY": {
+      "TITLE": "Bestellübersicht",
+      "SERVICE_FALLBACK": "Service",
+      "LOCATION_FALLBACK": "Standort",
+      "SUBTOTAL": "Zwischensumme",
+      "DISCOUNT": "Rabatt ({{rate}} %)",
+      "TOTAL_AFTER": "Gesamt nach Rabatt",
+      "TOTAL_COUNTER": "Gesamt (Zahlung vor Ort)"
+    },
+    "FOOTER": {
+      "ONLINE": "Nach der Online-Zahlung werden Sie zu Ihrer Reservierungsübersicht weitergeleitet.",
+      "COUNTER": "Ihre Reservierung wird gespeichert, Zahlung bei Ankunft an der Kasse."
+    }
+  }
+}

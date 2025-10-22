@@ -1,0 +1,263 @@
+{
+  "COMMON": {
+    "READ_MORE": "Read More"
+  },
+
+  "NAV": {
+    "HOME": "Home",
+    "ABOUT": "About Us",
+    "SERVICES": "Services",
+    "LOCATIONS": "Locations",
+    "CAREERS": "Careers",
+    "CONTACT": "Contact",
+    "CART": "Cart",
+    "LOGIN": "Login",
+    "LOGOUT": "Logout",
+    "HELLO": "Hello,",
+    "GUEST": "Guest"
+  },
+
+  "FACILITIES": {
+    "OUR_SERVICES_TITLE": "Our Services",
+    "OUR_SERVICES_SUBTITLE_LINE1": "From relaxing massages to radiant skin care,",
+    "OUR_SERVICES_SUBTITLE_LINE2": "we’re here to pamper you with expert treatments and a warm, welcoming touch.",
+    "IMAGES": {
+      "SPA_ALT": "Spa Image",
+      "MASSAGE_ALT": "Massage Image",
+      "RELAX_ALT": "Relax Image"
+    },
+    "CARDS": {
+      "TREATMENT": {
+        "TITLE": "Treatment",
+        "TEXT": "Indulge in massages, body scrubs, and facials — all delivered by our team of expert therapists to help you revive and relax."
+      },
+      "BEAUTY_SALON": {
+        "TITLE": "Beauty Salon",
+        "TEXT": "Explore our wide range of beauty packages, each carefully designed to complement one another for maximum benefit."
+      },
+      "FACILITIES": {
+        "TITLE": "Facilities",
+        "TEXT": "VITA MOOR Spa & Esthetics is a holistic wellness center, offering a wide selection of services under one roof to promote healthier living."
+      }
+    }
+  },
+
+  "ABOUT": {
+    "ALT": {
+      "LEAF_LEFT": "Leaf decoration (left)",
+      "LEAF_RIGHT": "Leaf decoration (right)",
+      "DECOR_LEFT": "Decorative leaves (left)",
+      "DECOR_RIGHT": "Decorative leaves (right)",
+      "SPA_ROOM": "Spa Room",
+      "SPA_TEAM": "Spa Team",
+      "GOLD_FLOWER": "Gold flower decoration",
+      "FLOWERS": "Flower decoration",
+      "MOOR_PRODUCTS": "Moor Spa Products"
+    },
+    "SHORT": {
+      "TITLE": "Welcome to VITA MOOR SPA & ESTHETICS",
+      "SUB_LEAD_1": "Your haven for a rejuvenating & holistic spa experience.",
+      "SUB_LEAD_2": "Visit us now at Dream Lagoon Resort, Marsa Alam",
+      "MOBILE": "Mobile Number: +201125250404"
+    },
+    "FULL": {
+      "WHO_WE_ARE_TITLE": "Who We Are",
+      "CARD1": "<strong>Moor Spa</strong> was founded in <strong>2006</strong> in Sharm El-Sheikh, Egypt, through a prestigious <strong>Egyptian–Italian partnership</strong>. Since then, we’ve proudly welcomed guests from all over the world with <strong>natural wellness experiences</strong> in modern, state-of-the-art facilities.",
+      "CARD2": "Our menu features over <strong>70+ treatments</strong>, each crafted with care to promote <strong>long-term wellbeing and balance</strong>.",
+      "CARD3": "We take pride in our expert team, whose dedication ensures every visit provides <strong>real results</strong> and an unforgettable experience.",
+      "BADGE": "Your Wellness Journey Begins Here"
+    },
+    "PRODUCTS": {
+      "HEADING": "Our 100% <span class=\"text-warning\">Natural Products</span>",
+      "P1": "At <strong>VITA MOOR Spa & Esthetics</strong>, we exclusively use the award-winning <strong>Moor Spa®</strong> line — a skincare collection crafted with <strong>100% naturally derived ingredients</strong>.",
+      "P2": "By blending the purifying essence of Moor with botanical extracts and essential oils, Moor Spa® delivers safe, effective solutions for every skin and body type.",
+      "P3": "Unlike many brands labeled 95% or 99% natural, Moor Spa® guarantees absolutely <strong>no synthetics, parabens, or harsh chemicals</strong> — making it one of the <strong class=\"text-warning\">safest product lines in the spa industry</strong>."
+    },
+    "FACTS": {
+      "VEGAN": "Vegan & cruelty-free ingredients",
+      "NO_SYNTHETICS": "No synthetic fragrances or dyes",
+      "ECO_PACKAGING": "Eco-friendly packaging",
+      "DERM_TESTED": "Dermatologist tested & certified"
+    },
+    "PARTNERS": {
+      "HEADING": "Our Partners",
+      "LOGO_ALT": "Logo of {{name}}"
+    }
+  },
+
+  "SERVICES": {
+    "HEADER": "Our Services",
+    "TAGLINE_LINE1": "From relaxing massages to radiant skin care,",
+    "TAGLINE_LINE2": "we’re here to pamper you with expert treatments and a warm welcoming touch.",
+    "FILTER_BY_LOCATION": "Filter by Location",
+    "SELECT_LOCATION": "Select a location",
+    "ALL_LOCATIONS": "All Locations",
+    "CAT": {
+      "ALL": "All",
+      "MASSAGE": "Massage",
+      "FACIAL_TREATMENTS": "Facial Treatments",
+      "WELLNESS_HYDROTHERAPY": "Wellness & Hydrotherapy",
+      "HAMMAM_BATH": "Hammam & Bath"
+    }
+  },
+
+  "LOCATIONS": {
+    "HEADER": "Our Spa Locations"
+  },
+
+  "CAREERS": {
+    "HEADER": {
+      "TITLE": "Join the <span class=\"text-primary\">VITA MOOR</span> Spa Family",
+      "SUBTITLE": "We’re looking for passionate professionals who believe in wellness, beauty, and personal care. Apply today and let’s grow together."
+    },
+    "FORM": {
+      "NAME": "Your Full Name",
+      "EMAIL": "Your Email Address",
+      "PHONE": "Phone Number",
+      "MESSAGE": "Tell us briefly about your experience or interest...",
+      "FILL_ALL": "Please fill all fields correctly."
+    },
+    "BUTTON": {
+      "APPLY": "Apply Now",
+      "SENDING": "Sending..."
+    },
+    "FORM_ERRORS": {
+      "NAME_REQ": "Name is required.",
+      "EMAIL_REQ": "A valid email is required.",
+      "PHONE_REQ": "A valid phone number is required.",
+      "MESSAGE_REQ": "Message is required."
+    },
+    "TOAST": {
+      "SUCCESS": "✅ Application submitted successfully!",
+      "ERROR": "❌ Could not submit application. Please try again."
+    }
+  },
+
+  "FOOTER": {
+    "CTA": {
+      "TITLE": "Plan your visit",
+      "DESC": "Treat yourself to a relaxing day at our spa in Marsa Alam.",
+      "BTN_BOOK": "Book now",
+      "BTN_DIRECTIONS": "Get directions",
+      "HOURS": "Open daily: 10:00–22:00"
+    },
+    "CONTACT": {
+      "ADDRESS_LABEL": "Address:",
+      "MOBILE_LABEL": "Mobile:",
+      "EMAIL_LABEL": "Email:"
+    },
+    "COPY": "Copyright © {{year}} VITA MOOR SPA & ESTHETICS.",
+    "ALT": {
+      "LOGO": "Vita Moor Spa logo",
+      "LEAF_LEFT": "Leaf decoration (left)",
+      "LEAF_RIGHT": "Leaf decoration (right)"
+    }
+  },
+  "CONTACT": {
+    "HEADER": {
+      "TITLE": "Contact Us",
+      "SUB": "We’d love to hear from you. Reach out for bookings, questions or feedback."
+    },
+    "INFO": {
+      "LOCATION_LABEL": "Location:",
+      "ADDRESS": "Dream Lagoon Resort, Marsa Alam, Egypt",
+      "PHONE_LABEL": "Phone:",
+      "PHONE_VALUE": "+20 112 525 0404",
+      "HOURS_LABEL": "Hours:",
+      "HOURS_VALUE": "Daily – 10:00 AM to 10:00 PM"
+    },
+    "FORM": {
+      "NAME_LABEL": "Full Name",
+      "NAME_PLACEHOLDER": "Your Name",
+      "EMAIL_LABEL": "Email",
+      "EMAIL_PLACEHOLDER": "you@example.com",
+      "MESSAGE_LABEL": "Message",
+      "MESSAGE_PLACEHOLDER": "Write your message...",
+      "FILL_ALL": "Please fill all fields correctly."
+    },
+    "BUTTON": {
+      "SEND": "Send Now",
+      "SENDING": "Sending..."
+    },
+    "TOAST": {
+      "SUCCESS": "✅ Message sent successfully!",
+      "ERROR": "❌ Failed to send your message."
+    }
+  },
+  "account": {
+    "welcome": "Welcome"
+  },
+
+  "ADMIN": {
+    "NAV": {
+      "PANEL": "Admin Panel",
+      "MENU": "Menu",
+      "LOCATIONS": "Locations",
+      "SERVICES": "Services",
+      "RESERVATIONS": "Reservations",
+      "EMPLOYEES": "Employees",
+      "CAREERS": "Careers",
+      "CONTACTS": "Contacts",
+      "LOGOUT": "Logout"
+    }
+  },
+  "CART": {
+    "HEADER": "Your Cart",
+    "ITEMS": {
+      "DURATION": "Duration",
+      "MIN": "min",
+      "LOCATION": "Location",
+      "DATE": "Date",
+      "TIME": "Time"
+    },
+    "SUMMARY": {
+      "SUBTOTAL": "Subtotal"
+    },
+    "ONLINE": {
+      "DISCOUNT": "Discount for paying online ({{rate}}%):",
+      "TITLE": "Total (Pay Online):",
+      "BUTTON": "Pay Online & Save {{rate}}%",
+      "SECURE_NOTE": "Secure online payment. You’ll be redirected to complete payment."
+    },
+    "COUNTER": {
+      "TITLE": "Total (Pay at Counter):",
+      "BUTTON": "Pay at Counter (No Discount)",
+      "NOTE": "Pay the full amount when you arrive. No online discount applies."
+    },
+    "ACTIONS": {
+      "CLEAR": "Clear Cart",
+      "CONTINUE": "Continue Browsing"
+    },
+    "EMPTY": {
+      "TITLE": "Your cart is empty.",
+      "BUTTON": "VIEW SERVICES"
+    }
+  },
+  "CHECKOUT": {
+    "ONLINE": {
+      "TITLE": "Pay Online (Save {{rate}}%)",
+      "SECURE": "Secure payments powered by PayPal",
+      "SECURE_FOOTER": "100% secure transaction — your data is encrypted"
+    },
+    "COUNTER": {
+      "TITLE": "Pay at Counter (No Discount)",
+      "SUB": "Reserve now and pay the full amount when you arrive.",
+      "BUTTON_LABEL": "Confirm Reservation (Pay at Counter)",
+      "BUTTON_SAVING": "Saving...",
+      "NOTE": "Your spot will be reserved; payment due at the counter on arrival."
+    },
+    "SUMMARY": {
+      "TITLE": "Order Summary",
+      "SERVICE_FALLBACK": "Service",
+      "LOCATION_FALLBACK": "Location",
+      "SUBTOTAL": "Subtotal",
+      "DISCOUNT": "Discount ({{rate}}%)",
+      "TOTAL_AFTER": "Total after discount",
+      "TOTAL_COUNTER": "Total (pay at counter)"
+    },
+    "FOOTER": {
+      "ONLINE": "After online payment, you’ll be redirected to your reservation summary.",
+      "COUNTER": "Your reservation will be saved and you’ll pay on arrival at the counter."
+    }
+  }
+}
